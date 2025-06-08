@@ -13,17 +13,16 @@
 ---
 
 🎓 I'm a fourth-year Industrial Engineering & Data Science student at Ariel University,  
-with hands-on experience in research, data analysis, and real-world traffic systems.
+with hands-on experience in research, data analysis, and traffic systems.
 
-⚙️ Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **AutoML**,  
-and passionate about solving problems using data, ML, and impactful visualizations.
+💼 I currently work at *Israel Roads* as a Shift Manager & Traffic Operator, analyzing real-time traffic data using Excel & SAP.  
+I'm also involved in academic AI research focusing on clustering and AutoML models.
 
-🧠 Currently working on an AI research project focusing on clustering & classification models.  
-Previously led traffic control operations at Israel Roads, using SAP and Excel for national-level optimization.
+💡 My passions include solving real-world problems with data, building predictive models, and creating powerful visualizations.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -36,15 +35,21 @@ Previously led traffic control operations at Israel Roads, using SAP and Excel f
 
 ## 📁 Featured Projects
 
-🔍 **[Car Price Prediction](https://github.com/DorNatan/Data-mining-and-analysis-in-Python)**  
-Data cleaning & mining with Python using real-world car price dataset.  
-→ *Includes feature engineering, regression, and model evaluation.*
+🔍 **[Data-mining-and-analysis-in-Python](https://github.com/DorNatan/Data-mining-and-analysis-in-Python)**  
+Exploratory data analysis, cleaning, and regression modeling using real-world car price datasets.  
+🛠️ *Python, Pandas, Seaborn, Scikit-learn*
 
-🗃️ **[SQL Data Queries](https://github.com/DorNatan/SQL)**  
-Complex queries & data exploration using SQL for business questions and insights.
+🚗 **[flask_car_price](https://github.com/DorNatan/flask_car_price)**  
+Web application to predict car prices using a trained ML model and Flask framework.  
+🛠️ *Python, Flask, Scikit-learn, HTML/CSS*
 
-📊 **[Data Visualization with Python](https://github.com/DorNatan/economic_freedom_index2019/blob/main/AG%20.ipynb)**  
-Visual analytics using Pandas, Seaborn, and Matplotlib on global economic indicators.
+📊 **[data-mining-project-2025](https://github.com/DorNatan/data-mining-project-2025)**  
+End-to-end machine learning pipeline, including clustering and classification with AutoML techniques.  
+🛠️ *Python, Scikit-learn, AutoML, Matplotlib*
+
+🗃️ **[SQL-ADV](https://github.com/DorNatan/SQL-ADV)**  
+Advanced SQL queries for business intelligence tasks – joins, subqueries, window functions and more.  
+🛠️ *PostgreSQL, DBeaver, Excel Integration*
 
 ---
 
@@ -57,6 +62,5 @@ Visual analytics using Pandas, Seaborn, and Matplotlib on global economic indica
 
 ---
 
-💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dornatan-data/)  
-or explore my repositories for open-source data science content.
-
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dornatan-data/)  
+or check out my repositories to see my work in data mining, visualization, and machine learning!
